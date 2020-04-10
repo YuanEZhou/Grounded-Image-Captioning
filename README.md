@@ -49,4 +49,3 @@ python train.py --id sc-ground-CE-scan-sup-0.1kl --caption_model topdown --input
 
 ## Acknowledgements
 This repository is built upon [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch),   [SCAN](https://github.com/kuanghuei/SCAN) and [grounded-video-description](https://github.com/facebookresearch/grounded-video-description/tree/flickr_branch). Thanks for their released  code.
-
